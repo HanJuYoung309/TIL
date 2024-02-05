@@ -9,4 +9,6 @@
 - 저장소 바로가기(https://github.com/HanJuYoung309/Spring)
 ###  백준 Deque 알고리즘 풀기
 - https://www.acmicpc.net/problem/10866
+- 풀이
+- https://github.com/cs-al-study/algorithm-study/blob/main/HanJuYoung309/deque/Main.java
 ###  StringBuilder,Stringtokenizer 특징, 차이점 포스팅하기
