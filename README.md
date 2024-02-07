@@ -14,7 +14,7 @@
 ###  StringBuilder,Stringtokenizer 특징, 차이점 포스팅하기
 
 ## 2024.02.07
-### 이펙티브자바 아이템36정리
-## 패캠 ObjectMapper 강의
-### 백준 큐 알고리즘 풀기
+#### 이펙티브자바 아이템36정리
+#### 패캠 ObjectMapper 강의
+#### 백준 큐 알고리즘 풀기
 
