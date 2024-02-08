@@ -21,4 +21,5 @@
 
 ## 2024.02.08
 #### 이펙티브자바 아이템36,37정리
+- https://velog.io/@juyg407/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%95%84%EC%9D%B4%ED%85%9C36
 #### 패캠 ObjectMapper 강의
