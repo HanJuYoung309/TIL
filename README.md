@@ -33,8 +33,9 @@
 
 ## 2024.02.14
 #### 코드로배우는스프링 부트- Thymleaf,layout설정(완-p99까지)
-#### Doit 알고리즘 책 1장- 문제 풀기
+#### Doit 알고리즘 책 1장- 문제 풀기(완)
 #### 패캠 강의- 여러가지 annotation다루기 까지
 #### 프로그래머스 문제 1개 풀기
-### sqld공부 계획짜기
+### sqld공부 계획짜기(mac에 docker이용해서 oracle설치하기)
+- 참고한 블로그: https://devtagebuch.tistory.com/12
 
