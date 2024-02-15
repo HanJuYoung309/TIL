@@ -39,3 +39,7 @@
 ### sqld공부 계획짜기(mac에 docker이용해서 oracle설치하기)
 - 참고한 블로그: https://devtagebuch.tistory.com/12
 
+## 2024.02.14
+#### 프로그래머스 문제 1개 풀기
+#### mac에 docker이용해서 oracle설치하기 - 권한 에러 해결하기
+
