@@ -55,4 +55,6 @@
 
 ## 2024.02.23
 #### 프로그래머스 2문제 풀기 
+- https://school.programmers.co.kr/learn/courses/30/lessons/250130
+- https://school.programmers.co.kr/learn/courses/30/lessons/181850
 #### Spring+React 프로젝트 설계
