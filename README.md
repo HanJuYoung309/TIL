@@ -58,3 +58,7 @@
 - https://school.programmers.co.kr/learn/courses/30/lessons/250130
 - https://school.programmers.co.kr/learn/courses/30/lessons/181850
 #### Spring+React 프로젝트 설계
+
+## 2024.02.24
+#### sqld 개념 끝내기
+#### Spring+React 프로젝트 설계 마무리
