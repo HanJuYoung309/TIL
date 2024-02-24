@@ -39,6 +39,7 @@
 ### sqld공부 계획짜기(mac에 docker이용해서 oracle설치하기)
 - 참고한 블로그: https://devtagebuch.tistory.com/12
 - http://www.dadbm.com/how-to-fix-ora-12547-tns-lost-contact-when-try-to-connect-to-oracle/
+- https://king-ja.tistory.com/107
 
 ## 2024.02.14
 #### 프로그래머스 문제 1개 풀기
